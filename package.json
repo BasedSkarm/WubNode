@@ -1,0 +1,21 @@
+{
+  "name": "wubsite",
+  "version": "0.0.0",
+  "description": "wubsite of carefully curated dank me|mes and webcomics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BasedSkarm/WubNode"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BasedSkarm/WubNode/issues"
+  },
+  "dependencies": {
+    "express": "~4.12.3"
+  }
+}
